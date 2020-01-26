@@ -1,0 +1,10 @@
+{
+    "HK": {
+        "sg_id": "<Security-group ID>",
+        "region": "ap-east-1"
+    },
+    "SG": {
+        "sg_id": "<Security-group ID>",
+        "region": "ap-southeast-1"
+    }
+}
